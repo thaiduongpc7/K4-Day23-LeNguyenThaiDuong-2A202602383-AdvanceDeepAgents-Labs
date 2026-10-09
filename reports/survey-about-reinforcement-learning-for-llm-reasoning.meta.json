@@ -1,0 +1,19 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "gpt-5.5",
+  "elapsed_s": 394.2,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "n_sources": 6,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search"
+  ]
+}

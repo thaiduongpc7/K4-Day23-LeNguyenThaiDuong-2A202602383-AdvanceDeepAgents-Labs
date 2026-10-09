@@ -1,0 +1,19 @@
+{
+  "topic": "survey about world model",
+  "model": "gpt-5.5",
+  "elapsed_s": 26.8,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "n_sources": 8,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search"
+  ]
+}

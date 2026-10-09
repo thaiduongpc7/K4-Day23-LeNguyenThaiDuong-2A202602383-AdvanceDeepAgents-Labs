@@ -1,0 +1,19 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "gpt-5.5",
+  "elapsed_s": 86.7,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "n_sources": 6,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search"
+  ]
+}

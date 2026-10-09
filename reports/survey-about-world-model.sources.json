@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12464",
+    "url": "https://arxiv.org/abs/2610.12464",
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.08268",
+    "url": "https://huggingface.co/papers/2402.08268",
+    "title": "World Model on Million-Length Video And Language With RingAttention",
+    "date": "2024-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2507.05169",
+    "url": "https://huggingface.co/papers/2507.05169",
+    "title": "Critiques of World Models",
+    "date": "2025-07-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.12242",
+    "url": "https://huggingface.co/papers/2610.12242",
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2405.09111",
+    "url": "https://huggingface.co/papers/2405.09111",
+    "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving",
+    "date": "2024-05-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.12468",
+    "url": "https://huggingface.co/papers/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2407.09276",
+    "url": "https://arxiv.org/abs/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.12242",
+    "url": "https://huggingface.co/papers/2610.12242",
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2510.03515",
+    "url": "https://huggingface.co/papers/2510.03515",
+    "title": "RAPID: An Efficient Reinforcement Learning Algorithm for Small Language Models",
+    "date": "2025-10-03",
+    "source": "hf-search"
+  }
+]

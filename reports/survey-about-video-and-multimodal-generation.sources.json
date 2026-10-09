@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2512.23576",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "title": "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2609.15863",
+    "url": "https://huggingface.co/papers/2609.15863",
+    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+    "date": "2026-09-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.12468",
+    "url": "https://huggingface.co/papers/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2511.18780",
+    "url": "https://arxiv.org/abs/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.12242",
+    "url": "https://huggingface.co/papers/2610.12242",
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]
